@@ -2,12 +2,12 @@
 ![Header](https://github.com/mmmmmob/mmmmmob/assets/141404845/3f0206cf-4edd-48ae-ac64-7e5b2dd77050)
 
 
-## Currently learning:
+## Currently learning 🧑🏼‍💻
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Experienced in:
+## Experienced in 💻️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Tools I'm using:
+## Tools I'm using 🛠️
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -29,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## Stats
+## Stats 📈
 <div>
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmmmmob&show_icons=true&theme=dark&locale=en&layout=compact" alt="mmmmmob" />
   <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmmmob&theme=dark" alt="mmmmmob" />
