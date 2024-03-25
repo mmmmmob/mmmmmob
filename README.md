@@ -17,7 +17,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Tools I'm using:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -27,11 +26,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmmmmob&show_icons=true&theme=dark&locale=en&layout=compact" alt="mmmmmob" /></p>
+<div>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmmmmob&show_icons=true&theme=dark&locale=en&layout=compact" alt="mmmmmob" />
+  <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmmmob&theme=dark" alt="mmmmmob" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmmmob&theme=dark" alt="mmmmmob" /></p>
 
 <!--
 **mmmmmob/mmmmmob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
