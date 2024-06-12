@@ -1,9 +1,11 @@
+
 <h1 align="left">Hi 👋, I'm Theppitak M.</h1>
 
 - 🔢 I’m currently working on [Lotto Journal](https://github.com/mmmmmob/lotto-journal) a Thai lottery journal native iOS application made with Swift
 - 🌱 I’m also currently learning **iOS Development with Swift**
 - 👨‍💻 Know more about me and my projects at [my portfolio site](https://theppitak.me)
 - 📫 Reach me at **hello@theppitak.me**
+- ☕ Coffee Support also available only one tap away <a href="https://ko-fi.com/mmmmmob"> <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="mmmmmob" /></a>
 
 ## 🧰 Inside my toolbox
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
