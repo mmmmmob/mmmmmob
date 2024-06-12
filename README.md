@@ -6,4 +6,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmmob&layout=compact&card_width=320" />
 </a>
 
-![Snake animation](https://github.com/mmmmmob/mmmmmob/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mmmmmob/blob/output/github-contribution-grid-snake.svg)
