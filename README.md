@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Theppitak M.</h1>
 
 - 🔢 I’m currently working on [Lotto Journal](https://github.com/mmmmmob/lotto-journal) a Thai lottery journal native iOS application made with Swift
-- 🌱 I’m also currently learning **iOS Development with Swift**
+- 🌱 I’m also currently learning **iOS Development with Swift, TypeScript and Python**
 - 👨‍💻 Know more about me and my projects at [my portfolio site](https://theppitak.me)
 - 📫 Reach me at **hello@theppitak.me**
 - ☕ Coffee Support also available only one tap away <a href="https://ko-fi.com/mmmmmob"> <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="mmmmmob" /></a>
@@ -24,7 +24,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mmmmmob&show_icons=true&card_width=320&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmmob&layout=compact&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmmob&layout=compact&card_width=320&theme=dark&hide=ipynb" />
 </a>
 
 ![Snake animation](https://github.com/mmmmmob/mmmmmob/blob/output/github-contribution-grid-snake-dark.svg)
