@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Theppitak M.</h1>
 
-- 🌱 I’m currently learning **TypeScript, C#, iOS Development with Swift and Python**
+- 🌱 I’m currently learning **TypeScript x React, back-end with C# and Go**
 - 👨‍💻 Know more about me and my projects at [my portfolio site](https://theppitak.me)
 - ☕ Coffee Support also available only one tap away <a href="https://ko-fi.com/mmmmmob"> <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="mmmmmob" /></a>
 
