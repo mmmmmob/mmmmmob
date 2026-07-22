@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Theppitak M.</h1>
 
 - 🌱 I’m currently learning **TypeScript x React, back-end with C# and Go**
-- 👨‍💻 Know more about me and my projects at [my portfolio site](https://theppitak.me)
+- 👨‍💻 Know more about me and my projects at [my portfolio site](https://theppitak.work)
 
 ## 🧰 Inside my toolbox
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
